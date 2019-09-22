@@ -1,5 +1,7 @@
 package com.tiasnlong;
 
+import java.util.HashMap;
+
 /**
  * @Author : tianlong
  * @ClassName :Demo
