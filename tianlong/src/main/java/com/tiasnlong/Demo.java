@@ -26,5 +26,6 @@ public class Demo {
     public static void fun(){
         System.out.println("777777777");
         System.out.println("0000000");
+        System.out.println("格式的风格的发生过的双方各");
     }
 }
