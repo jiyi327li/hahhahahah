@@ -1,7 +1,5 @@
 package com.tiasnlong;
 
-import java.util.HashMap;
-
 /**
  * @Author : tianlong
  * @ClassName :Demo
@@ -11,6 +9,7 @@ import java.util.HashMap;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("哈哈哈");
+        System.out.println("66666666666666666");
         HashMap<String, Integer> map = new HashMap<String, Integer>();
         map.put("张三",18);
         map.put("张三3",18);
