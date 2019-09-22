@@ -18,6 +18,9 @@ public class Demo {
         map.put("张三2",18);
         System.out.println(map);
         fun();
+        for (int i = 0; i <10 ; i++) {
+            System.out.println("哈哈哈哈");
+        }
     }
 
     public static void fun(){
