@@ -16,5 +16,10 @@ public class Demo {
         map.put("张三3",18);
         map.put("张三2",18);
         System.out.println(map);
+        fun();
+    }
+
+    public static void fun(){
+        System.out.println("777777777");
     }
 }
