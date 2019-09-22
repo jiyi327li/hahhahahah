@@ -25,5 +25,6 @@ public class Demo {
 
     public static void fun(){
         System.out.println("777777777");
+        System.out.println("0000000");
     }
 }
